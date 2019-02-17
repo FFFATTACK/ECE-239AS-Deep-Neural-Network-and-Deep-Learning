@@ -4,6 +4,6 @@ Five Main Topics:
 
 1. Linear Regression
 2. K-Nearest Neighbours, Softmax, Support Vector Machine
-3.
-4.
+3. 2-layer neural network, General FC neural network
+4. Multiple optimizers, batch normalization, dropout for a FC network
 5.
